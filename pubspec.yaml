@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   validators: ^2.0.1
-  path_provider: ^1.6.5
+  path_provider: ^2.0.1
   path: ^1.6.4
   intl: ^0.17.0
   meta: ^1.1.8
